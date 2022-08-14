@@ -1,0 +1,46 @@
+p , h1,h2,h3,h4{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Playfair Display', serif;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; 
+    background-color:#34495E; 
+}
+.navbar{
+    background-color: #34495E ;
+}
+.navbar-nav li a{
+    color: white !important;
+    font-weight: bolder;
+    font-size: 1.0rem;
+    text-transform: uppercase;
+}
+.faculty img{
+    width: 175px;
+}
+.faculty .rj img{
+    height: 175px;
+}
+.faculty .dp img{
+    height: 175px;
+}
+.faculty .sh img{
+    height: 175px;
+}
+.footer{
+    height: 300px;
+}
+.footer i{
+    font-size: 1.5rem;
+   color: blue
+   
+}
+.faculty .card{
+    border: 2px solid grey;
+    box-shadow: 5px 5px 5px 5px #888888;
+}
+.faculty .card img:hover{
+    
+    transition:translateY(-10%);
+}
